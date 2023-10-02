@@ -16,13 +16,13 @@ dan Framing Image Berbasis Pengolahan Citra Digital<h3/>
 
 # Teori
 <h3>Metode Robert Filter</h3>
-Referensi : https://arxiv.org/abs/2012.09810 
+Referensi : https://jurnal.umj.ac.id/index.php/resistor/article/view/4792/4537
 <p>Metode Robert Filter adalah salah satu teknik pengolahan citra yang digunakan untuk deteksi tepi atau kontur dalam citra. Ini berdasarkan pada konsep konvolusi, di mana filter khusus digunakan untuk mengidentifikasi perubahan tajam dalam intensitas piksel. Teori yang mungkin terkait dengan metode ini melibatkan pembahasan tentang filter Robert, konsep operasi konvolusi, dan bagaimana metode ini dapat digunakan untuk mengekstraksi fitur-fitur tertentu dalam citra, seperti tepi pada plat nomor kendaraan.
 <p/>
 <h3>Framing Image (Pembingkai Citra)</h3>
-Referensi : https://digitalcommons.morris.umn.edu/horizons/vol10/iss2/4/ 
+Referensi : https://jurnal.umj.ac.id/index.php/resistor/article/view/4792/4537
 <p>Framing image dalam konteks ini mengacu pada proses pemisahan plat nomor kendaraan dari latar belakang citra. Teori yang mungkin terkait dengan ini mencakup teknik segmentasi citra, seperti pembingkaian atau penentuan batas region of interest (ROI). Ini juga dapat melibatkan pembahasan tentang bagaimana memilih parameter framing yang sesuai untuk memisahkan plat nomor dari latar belakang dengan akurasi tinggi.
 <p/>
 <h3>Sistem Identifikasi Plat Nomor Kendaraan</h3>
-Referensi : https://lup.lub.lu.se/student-papers/record/9091182/file/9091183.pdf 
+Referensi : http://ejurnal.its.ac.id/index.php/teknik/article/view/2724
 <p>Teori yang terkait dengan sistem identifikasi plat nomor kendaraan melibatkan pendekatan yang digunakan untuk mengenali plat nomor dalam citra. Ini dapat mencakup penggunaan algoritma pengenalan karakter optik (OCR), jaringan saraf tiruan (neural networks), atau metode pembelajaran mesin lainnya. Teori ini juga mencakup bagaimana data citra dan fitur-fitur yang diekstraksi dari citra digunakan untuk pengenalan plat nomor.
