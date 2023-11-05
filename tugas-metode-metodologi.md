@@ -4,13 +4,14 @@
 
 # <h2>Topik : Contoh Paper yang Menggunakan Metodologi atau Metode<h2/>
 1. Metodologi
-   - [Progressive Web Apps Development: Study of Caching Mechanisms](https://ieeexplore.ieee.org/abstract/document/9732313)
-   - [Implementasi Progressive Web Apps (PWA) Menggunakan Laravel Dan Vue.Js dalam Pembuatan Aplikasi Penyedia Jasa Freelance](https://journal.sekawan-org.id/index.php/jtim/article/view/109)
-   - [Noise Removal Pada Citra Digital Menggunakan Metode Gaussian Filter](https://repository.unsri.ac.id/61180/1/Proseeding-ARS.pdf)
+   - [Pendekatan Metodologi Extreme Programming pada Aplikasi e-Commerce Berbasis M-Commerce)(https://ejournal.bsi.ac.id/ejurnal/index.php/khatulistiwa/article/view/2885)
+   - [PENGEMBANGAN DATA WAREHOUSE CALL CENTER DENGAN METODOLOGI KIMBALL NINE-STEP PADA BINA SARANA INFORMATIKA](https://ejournal.bsi.ac.id/ejurnal/index.php/ji/article/view/104)
+   - [Analisa dan Rancangan Sistem Informasi Pengadaan Barang dengan Metodologi Berorientasi Obyek](https://journal.budiluhur.ac.id/index.php/telematika/article/view/192)
 2. Metode
-   - [Sistem Pendukung Keputusan Penerimaan Beasiswa pada SMK 2 Sojol Menggunakan Metode AHP](https://jesik.web.id/index.php/jesik/article/view/86)
-   - [Application of Hough Transformation Method for Value Analysis Rupiah Coins](https://penerbitadm.com/index.php/KOMITEK/article/view/855)
-   - [Implementasi Metode Deteksi Tepi Canny Untuk Menghitung Jumlah Uang Koin Dalam Gambar Menggunakan OPENCV](https://journal.eng.unila.ac.id/index.php/jitet/article/view/3147)
+   - [Penerapan Metode K-Means Untuk Clustering Mahasiswa Berdasarkan Nilai Akademik Dengan Weka Interface Studi Kasus Pada Jurusan Teknik Informatika UMM Magelang
+](https://journal.budiluhur.ac.id/index.php/telematika/article/view/192)
+   - [FUZZY INFERENCE SYSTEM DENGAN METODE TSUKAMOTO SEBAGAI PEMBERI SARAN PEMILIHAN KONSENTRASI](https://journal.uii.ac.id/Snati/article/view/2903)
+   - [Implementasi Metode K-Nearest Neighbor untuk Rekomendasi Keminatan Studi](https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/1686)
 
 # Teori
 <h3>Metode Robert Filter</h3>
