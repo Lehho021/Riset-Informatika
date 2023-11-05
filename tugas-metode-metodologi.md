@@ -4,13 +4,13 @@
 
 # <h2>Topik : Contoh Paper yang Menggunakan Metodologi atau Metode<h2/>
 1. Metodologi
-<li>Bagaimana metode Robert Filter dapat diterapkan secara efektif untuk ekstraksi fitur pada citra plat nomor kendaraan?
-<li>Bagaimana kerangka kerja framing image dapat digunakan untuk memisahkan plat nomor kendaraan dari latar belakang dalam citra digital?
-
+    <li>Bagaimana metode Robert Filter dapat diterapkan secara efektif untuk ekstraksi fitur pada citra plat nomor kendaraan?
+    <li>Bagaimana kerangka kerja framing image dapat digunakan untuk memisahkan plat nomor kendaraan dari latar belakang dalam citra digital?
+<br>
 2. Metode
-<li>Apakah kombinasi antara metode Robert Filter dan framing image mampu meningkatkan akurasi identifikasi plat nomor kendaraan dibandingkan dengan metode lainnya?
-<li>Bagaimana pengolahan citra digital dapat memengaruhi kinerja sistem identifikasi plat nomor kendaraan?
-<li>Apa tantangan utama yang dihadapi dalam mengembangkan sistem identifikasi plat nomor kendaraan menggunakan pendekatan ini, dan bagaimana tantangan tersebut dapat diatasi?
+    <li>Apakah kombinasi antara metode Robert Filter dan framing image mampu meningkatkan akurasi identifikasi plat nomor kendaraan dibandingkan dengan metode lainnya?
+    <li>Bagaimana pengolahan citra digital dapat memengaruhi kinerja sistem identifikasi plat nomor kendaraan?
+    <li>Apa tantangan utama yang dihadapi dalam mengembangkan sistem identifikasi plat nomor kendaraan menggunakan pendekatan ini, dan bagaimana tantangan tersebut dapat diatasi?
 
 # Teori
 <h3>Metode Robert Filter</h3>
