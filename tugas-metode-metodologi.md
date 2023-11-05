@@ -1,6 +1,6 @@
 # <h2>Topik : Perbedaan Metode dan Metodologi<h2/>
-<p>Metode adalah prosedur, teknik, atau langkah untuk melakukan sesuatu, terutama untuk mencapai tujuan tertentu. Metode bersifat spesifik dan dapat diterapkan pada berbagai bidang. Misalnya, metode penelitian kuantitatif adalah metode yang digunakan untuk mengumpulkan dan menganalisis data kuantitatif. Metode penelitian kualitatif adalah metode yang digunakan untuk mengumpulkan dan menganalisis data kualitatif.</p>
-<p>Metodologi adalah ilmu tentang metode; uraian tentang metode. Metodologi adalah cara berpikir dan bertindak yang sistematis dan logis dalam memecahkan masalah. Metodologi bersifat umum dan dapat diterapkan pada berbagai bidang. Misalnya, metodologi penelitian adalah metodologi yang digunakan dalam penelitian. Metodologi pembelajaran adalah metodologi yang digunakan dalam pembelajaran..</p>
+<li>Metode adalah prosedur, teknik, atau langkah untuk melakukan sesuatu, terutama untuk mencapai tujuan tertentu. Metode bersifat spesifik dan dapat diterapkan pada berbagai bidang. Misalnya, metode penelitian kuantitatif adalah metode yang digunakan untuk mengumpulkan dan menganalisis data kuantitatif. Metode penelitian kualitatif adalah metode yang digunakan untuk mengumpulkan dan menganalisis data kualitatif.
+<li>Metodologi adalah ilmu tentang metode; uraian tentang metode. Metodologi adalah cara berpikir dan bertindak yang sistematis dan logis dalam memecahkan masalah. Metodologi bersifat umum dan dapat diterapkan pada berbagai bidang. Misalnya, metodologi penelitian adalah metodologi yang digunakan dalam penelitian. Metodologi pembelajaran adalah metodologi yang digunakan dalam pembelajaran.
 
 # Research Question
 <li>Bagaimana metode Robert Filter dapat diterapkan secara efektif untuk ekstraksi fitur pada citra plat nomor kendaraan?
@@ -12,7 +12,7 @@
 # Teori
 <h3>Metode Robert Filter</h3>
 Referensi : https://jurnal.umj.ac.id/index.php/resistor/article/view/4792/4537
-<p>Metode Robert Filter adalah salah satu teknik pengolahan citra yang digunakan untuk deteksi tepi atau kontur dalam citra. Ini berdasarkan pada konsep konvolusi, di mana filter khusus digunakan untuk mengidentifikasi perubahan tajam dalam intensitas piksel. Teori yang mungkin terkait dengan metode ini melibatkan pembahasan tentang filter Robert, konsep operasi konvolusi, dan bagaimana metode ini dapat digunakan untuk mengekstraksi fitur-fitur tertentu dalam citra, seperti tepi pada plat nomor kendaraan.
+<li>Metode Robert Filter adalah salah satu teknik pengolahan citra yang digunakan untuk deteksi tepi atau kontur dalam citra. Ini berdasarkan pada konsep konvolusi, di mana filter khusus digunakan untuk mengidentifikasi perubahan tajam dalam intensitas piksel. Teori yang mungkin terkait dengan metode ini melibatkan pembahasan tentang filter Robert, konsep operasi konvolusi, dan bagaimana metode ini dapat digunakan untuk mengekstraksi fitur-fitur tertentu dalam citra, seperti tepi pada plat nomor kendaraan.
 <p/>
 <h3>Framing Image (Pembingkai Citra)</h3>
 Referensi : https://jurnal.umj.ac.id/index.php/resistor/article/view/4792/4537
