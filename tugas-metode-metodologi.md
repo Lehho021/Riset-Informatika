@@ -13,15 +13,8 @@
    - [FUZZY INFERENCE SYSTEM DENGAN METODE TSUKAMOTO SEBAGAI PEMBERI SARAN PEMILIHAN KONSENTRASI](https://journal.uii.ac.id/Snati/article/view/2903)
    - [Implementasi Metode K-Nearest Neighbor untuk Rekomendasi Keminatan Studi](https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/1686)
 
-# Teori
-<h3>Metode Robert Filter</h3>
-Referensi : https://jurnal.umj.ac.id/index.php/resistor/article/view/4792/4537
-<li>Metode Robert Filter adalah salah satu teknik pengolahan citra yang digunakan untuk deteksi tepi atau kontur dalam citra. Ini berdasarkan pada konsep konvolusi, di mana filter khusus digunakan untuk mengidentifikasi perubahan tajam dalam intensitas piksel. Teori yang mungkin terkait dengan metode ini melibatkan pembahasan tentang filter Robert, konsep operasi konvolusi, dan bagaimana metode ini dapat digunakan untuk mengekstraksi fitur-fitur tertentu dalam citra, seperti tepi pada plat nomor kendaraan.
-<p/>
-<h3>Framing Image (Pembingkai Citra)</h3>
-Referensi : https://jurnal.umj.ac.id/index.php/resistor/article/view/4792/4537
-<p>Framing image dalam konteks ini mengacu pada proses pemisahan plat nomor kendaraan dari latar belakang citra. Teori yang mungkin terkait dengan ini mencakup teknik segmentasi citra, seperti pembingkaian atau penentuan batas region of interest (ROI). Ini juga dapat melibatkan pembahasan tentang bagaimana memilih parameter framing yang sesuai untuk memisahkan plat nomor dari latar belakang dengan akurasi tinggi.
-<p/>
-<h3>Sistem Identifikasi Plat Nomor Kendaraan</h3>
-Referensi : http://ejurnal.its.ac.id/index.php/teknik/article/view/2724
-<p>Teori yang terkait dengan sistem identifikasi plat nomor kendaraan melibatkan pendekatan yang digunakan untuk mengenali plat nomor dalam citra. Ini dapat mencakup penggunaan algoritma pengenalan karakter optik (OCR), jaringan saraf tiruan (neural networks), atau metode pembelajaran mesin lainnya. Teori ini juga mencakup bagaimana data citra dan fitur-fitur yang diekstraksi dari citra digunakan untuk pengenalan plat nomor.
+# <h3>Implementasi pada Riset<h3/>
+<h3>Metode penelitian kuantitatif</h3>
+<p>metode penelitian yang menggunakan data non-numerik untuk memahami fenomena sosial. Metode penelitian ini menekankan pada pemahaman mendalam tentang fenomena yang diteliti, bukan untuk menguji hipotesis.<p/>
+<h3>Metode penelitian kualitatif</h3>
+<p>metode penelitian yang menggunakan data numerik untuk menguji hipotesis. Metode penelitian ini menekankan pada pengukuran dan analisis data untuk menguji hubungan antara variabel-variabel yang diteliti.<p/>
