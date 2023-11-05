@@ -4,13 +4,13 @@
 
 # <h2>Topik : Contoh Paper yang Menggunakan Metodologi atau Metode<h2/>
 1. Metodologi
-    <li>Bagaimana metode Robert Filter dapat diterapkan secara efektif untuk ekstraksi fitur pada citra plat nomor kendaraan?
-    <li>Bagaimana kerangka kerja framing image dapat digunakan untuk memisahkan plat nomor kendaraan dari latar belakang dalam citra digital?
-<br>
+   - [Progressive Web Apps Development: Study of Caching Mechanisms](https://ieeexplore.ieee.org/abstract/document/9732313)
+   - [Implementasi Progressive Web Apps (PWA) Menggunakan Laravel Dan Vue.Js dalam Pembuatan Aplikasi Penyedia Jasa Freelance](https://journal.sekawan-org.id/index.php/jtim/article/view/109)
+   - [Noise Removal Pada Citra Digital Menggunakan Metode Gaussian Filter](https://repository.unsri.ac.id/61180/1/Proseeding-ARS.pdf)
 2. Metode
-    <li>Apakah kombinasi antara metode Robert Filter dan framing image mampu meningkatkan akurasi identifikasi plat nomor kendaraan dibandingkan dengan metode lainnya?
-    <li>Bagaimana pengolahan citra digital dapat memengaruhi kinerja sistem identifikasi plat nomor kendaraan?
-    <li>Apa tantangan utama yang dihadapi dalam mengembangkan sistem identifikasi plat nomor kendaraan menggunakan pendekatan ini, dan bagaimana tantangan tersebut dapat diatasi?
+   - [Sistem Pendukung Keputusan Penerimaan Beasiswa pada SMK 2 Sojol Menggunakan Metode AHP](https://jesik.web.id/index.php/jesik/article/view/86)
+   - [Application of Hough Transformation Method for Value Analysis Rupiah Coins](https://penerbitadm.com/index.php/KOMITEK/article/view/855)
+   - [Implementasi Metode Deteksi Tepi Canny Untuk Menghitung Jumlah Uang Koin Dalam Gambar Menggunakan OPENCV](https://journal.eng.unila.ac.id/index.php/jitet/article/view/3147)
 
 # Teori
 <h3>Metode Robert Filter</h3>
