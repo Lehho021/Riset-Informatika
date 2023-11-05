@@ -12,6 +12,7 @@
    - [Application of Hough Transformation Method for Value Analysis Rupiah Coins](https://penerbitadm.com/index.php/KOMITEK/article/view/855)
    - [Implementasi Metode Deteksi Tepi Canny Untuk Menghitung Jumlah Uang Koin Dalam Gambar Menggunakan OPENCV](https://journal.eng.unila.ac.id/index.php/jitet/article/view/3147)
 
+<br>
 # Teori
 <h3>Metode Robert Filter</h3>
 Referensi : https://jurnal.umj.ac.id/index.php/resistor/article/view/4792/4537
