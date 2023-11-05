@@ -15,6 +15,10 @@
 
 # <h1>Implementasi pada Riset<h1/>
 <h3> 1. Metode penelitian kuantitatif</h3>
-<p>metode penelitian yang menggunakan data non-numerik untuk memahami fenomena sosial. Metode penelitian ini menekankan pada pemahaman mendalam tentang fenomena yang diteliti, bukan untuk menguji hipotesis.<p/>
+<p>metode penelitian yang menggunakan data non-numerik untuk memahami fenomena sosial. penelitian tentang pengaruh penggunaan media sosial terhadap motivasi belajar siswa. Penelitian ini menggunakan metode penelitian kuantitatif dengan desain penelitian survei. Data yang dikumpulkan dianalisis dengan menggunakan statistik inferensi untuk menguji hipotesis bahwa penggunaan media sosial memiliki pengaruh positif terhadap motivasi belajar siswa.<p/>
 <h3> 2. Metode penelitian kualitatif</h3>
-<p>metode penelitian yang menggunakan data numerik untuk menguji hipotesis. Metode penelitian ini menekankan pada pengukuran dan analisis data untuk menguji hubungan antara variabel-variabel yang diteliti.<p/>
+<p>metode penelitian yang menggunakan data numerik untuk menguji hipotesis. penelitian tentang bagaimana pengguna berinteraksi dengan sistem informasi tertentu. Penelitian ini menggunakan metode penelitian kualitatif dengan desain penelitian studi kasus. Data yang dikumpulkan dianalisis dengan menggunakan analisis tematik untuk menemukan tema-tema umum dalam interaksi pengguna dengan sistem informasi tersebut.<p/>
+<h3> 3. Metodologi waterfall</h3>
+<p>metode penelitian yang menggunakan data numerik untuk menguji hipotesis. Metodologi pengembangan sistem yang terstruktur dan berurutan, mulai dari analisis, desain, implementasi, pengujian, hingga deployment.<p/>
+<h3> 4. Metodologi agile</h3>
+<p>Metodologi agile adalah metodologi pengembangan sistem yang berfokus pada iterasi dan kolaborasi. Metodologi ini dicirikan oleh penggunaan sprint, yaitu periode waktu singkat di mana tim pengembang bekerja untuk menyelesaikan bagian dari sistem.Dalam bidang informatika, metodologi agile dapat digunakan untuk mengembangkan sistem informasi yang kompleks dan berubah dengan cepat. Pemilihan metodologi yang tepat harus disesuaikan dengan tujuan dan karakteristik penelitian atau pengembangan sistem.<p/>
