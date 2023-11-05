@@ -14,7 +14,7 @@
    - [Implementasi Metode K-Nearest Neighbor untuk Rekomendasi Keminatan Studi](https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/1686)
 
 # <h3>Implementasi pada Riset<h3/>
-<h3>Metode penelitian kuantitatif</h3>
+1. <h3>Metode penelitian kuantitatif</h3>
 <p>metode penelitian yang menggunakan data non-numerik untuk memahami fenomena sosial. Metode penelitian ini menekankan pada pemahaman mendalam tentang fenomena yang diteliti, bukan untuk menguji hipotesis.<p/>
-<h3>Metode penelitian kualitatif</h3>
+2. <h3>Metode penelitian kualitatif</h3>
 <p>metode penelitian yang menggunakan data numerik untuk menguji hipotesis. Metode penelitian ini menekankan pada pengukuran dan analisis data untuk menguji hubungan antara variabel-variabel yang diteliti.<p/>
