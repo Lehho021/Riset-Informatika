@@ -13,7 +13,7 @@
    - [FUZZY INFERENCE SYSTEM DENGAN METODE TSUKAMOTO SEBAGAI PEMBERI SARAN PEMILIHAN KONSENTRASI](https://journal.uii.ac.id/Snati/article/view/2903)
    - [Implementasi Metode K-Nearest Neighbor untuk Rekomendasi Keminatan Studi](https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/1686)
 
-# <h1Implementasi pada Riset<h1/>
+# <h1>Implementasi pada Riset<h1/>
 <h3> 1. Metode penelitian kuantitatif</h3>
 <p>metode penelitian yang menggunakan data non-numerik untuk memahami fenomena sosial. Metode penelitian ini menekankan pada pemahaman mendalam tentang fenomena yang diteliti, bukan untuk menguji hipotesis.<p/>
 <h3> 2. Metode penelitian kualitatif</h3>
