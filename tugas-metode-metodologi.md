@@ -2,9 +2,12 @@
 <li>Metode adalah prosedur, teknik, atau langkah untuk melakukan sesuatu, terutama untuk mencapai tujuan tertentu. Metode bersifat spesifik dan dapat diterapkan pada berbagai bidang. Misalnya, metode penelitian kuantitatif adalah metode yang digunakan untuk mengumpulkan dan menganalisis data kuantitatif. Metode penelitian kualitatif adalah metode yang digunakan untuk mengumpulkan dan menganalisis data kualitatif.
 <li>Metodologi adalah ilmu tentang metode; uraian tentang metode. Metodologi adalah cara berpikir dan bertindak yang sistematis dan logis dalam memecahkan masalah. Metodologi bersifat umum dan dapat diterapkan pada berbagai bidang. Misalnya, metodologi penelitian adalah metodologi yang digunakan dalam penelitian. Metodologi pembelajaran adalah metodologi yang digunakan dalam pembelajaran.
 
-# Research Question
+# <h2>Topik : Contoh Paper yang Menggunakan Metodologi atau Metode<h2/>
+1. Metodologi
 <li>Bagaimana metode Robert Filter dapat diterapkan secara efektif untuk ekstraksi fitur pada citra plat nomor kendaraan?
 <li>Bagaimana kerangka kerja framing image dapat digunakan untuk memisahkan plat nomor kendaraan dari latar belakang dalam citra digital?
+
+2. Metode
 <li>Apakah kombinasi antara metode Robert Filter dan framing image mampu meningkatkan akurasi identifikasi plat nomor kendaraan dibandingkan dengan metode lainnya?
 <li>Bagaimana pengolahan citra digital dapat memengaruhi kinerja sistem identifikasi plat nomor kendaraan?
 <li>Apa tantangan utama yang dihadapi dalam mengembangkan sistem identifikasi plat nomor kendaraan menggunakan pendekatan ini, dan bagaimana tantangan tersebut dapat diatasi?
